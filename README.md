@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rjv-RY
+- 👋 Hi, I’m Rajiv
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS and Js
 - 💞️ I’m looking to collaborate on ...
