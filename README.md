@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajiv
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Everything
 - 🌱 I’m currently learning HTML, CSS and Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
