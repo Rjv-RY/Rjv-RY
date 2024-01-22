@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajiv
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Js and React
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach me on rajivryadav18@gmail.com
 
