@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Rajiv
-- 👀 I’m interested in Everything
-- 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on open source projects.
+- 👋 Greeting and welcome, I’m Rajiv!
+- 👀 I’m interested in a lot of things. HTMX, SpringBoot and Multi-treading to name a few.
+- 🌱 I’m currently learning Junit and Spring
+- 💞️ I’m looking to collaborate on open source projects or passion projects!
 - 📫 Reach me on rajivryadav18@gmail.com
 
 <!---
