@@ -6,9 +6,9 @@
 
 - 💪🏼 Working on [My latest repo probably? Come check it out!](https://github.com/Rjv-RY?tab=repositories)
 
-- 🌱 I’m currently learning **React, Spring and JUnit**
+- 🌱 I’m currently learning **Spring, SQL and Docker w/ AWS**
 
-- 💬 Ask me about **NodeJS! Or 40k for something serious.**
+- 💬 Ask me about **NodeJS/Spring Or 40k for something serious.**
 
 - 📫 How to reach me **: rajivryadav18@gmail.com**
 
